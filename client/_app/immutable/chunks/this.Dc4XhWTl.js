@@ -1,0 +1,1 @@
+import{w as c,y as h,u as k,z as x,f as y}from"./runtime.Dn8xTbO9.js";function u(r,f){var t;var i=r&&((t=r[y])==null?void 0:t.t);return r===f||i===f}function T(r,f,i,t){c(()=>{var a,s;return h(()=>{a=s,s=[],k(()=>{r!==i(...s)&&(f(r,...s),a&&u(i(...a),r)&&f(null,...a))})}),()=>{x(()=>{s&&u(i(...s),r)&&f(null,...s)})}})}export{T as b};
